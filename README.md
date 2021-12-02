@@ -30,6 +30,6 @@ The data set includes information about:
 
 4. Model Building : Random Forests.
  
-5: Handling Imbalanced Data using SMOTE-ENN.
+ 5: Handling Imbalanced Data using SMOTE-ENN.
 
-6: Model Evaluation using Classification Report, Confusion Matrix
+ 6: Model Evaluation using Classification Report, Confusion Matrix
