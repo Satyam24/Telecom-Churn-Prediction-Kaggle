@@ -26,5 +26,7 @@ The data set includes information about:
 2. Exploratory Data Analysis:Correlation, Univariate and Bivariate Analysis using Visualizations
 3. Pre Model Building Steps: Feature Engineering
 4. Model Building : Random Forests
+
 5: Handling Imbalanced Data using SMOTE-ENN 
+
 6: Model Evaluation using Classification Report, Confusion Matrix
